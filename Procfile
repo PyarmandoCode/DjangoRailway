@@ -1,0 +1,1 @@
+web: gunicorn django_railway.wsgi --log-file -
